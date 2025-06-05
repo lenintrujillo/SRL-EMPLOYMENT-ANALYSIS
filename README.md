@@ -7,11 +7,9 @@ This exercise focuses on analyzing HR data from the company SRL to support bette
 
 
 ## DATASET DESCRIPTION
-This dataset contains detailed information about transactions recorded at the "CityBlend" coffee shop across its different branches. 
-The data spans a period of six months, and each row represents a single transaction. The dataset includes the following variables:
+The dataset contains detailed information about employees at the company SRL. It includes a mix of demographic, employment, performance, and behavioral data, allowing for a wide range of HR-related analyses.
 
-
-**Column Name**	             |**Description**
+**Column Name**	               |**Description**
 
 ### **Personal & Job Information**
 
